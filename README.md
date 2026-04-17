@@ -4,7 +4,7 @@ Web3 security researcher focused on bug bounty, exploitability analysis, and sma
 
 ## Audits completed while working at Hexens
 
-Below are public audit reports I worked on as part of the Hexens team.
+Below are **public** audit reports I worked on as part of the Hexens team, it doesnt contain private reports.
 
 - **Fuel — Connectors Predicates**  
   Public audit completed at **Hexens**.  
