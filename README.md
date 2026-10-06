@@ -84,6 +84,7 @@ Below are **public** audit reports I worked on as part of the Hexens team, it do
 ## Public findings / write-ups ( Bug bounty )
 
 - [Medium — @Heuss](https://medium.com/@Heuss)
+- [Immunefi - Heuss](https://immunefi.com/profile/Heuss/)
 
 ## Contact
 
